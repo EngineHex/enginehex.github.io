@@ -17,9 +17,13 @@
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding-top: 5px;
+  padding-top: 4vmin;
+  padding-bottom: 2vmin;
 }
 
+.card img {
+  margin-bottom: 4vmin;
+}
 .container {
   padding: 0 16px;
 }

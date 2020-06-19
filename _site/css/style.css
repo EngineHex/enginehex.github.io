@@ -1,0 +1,14 @@
+.heading {
+    color: 102a43;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#contact_board {
+    background-image: url();
+}
+
+#navGrad {
+    /* background-image: linear-gradient(140deg, #43cea2  10%, #185a9d 90%); */
+    background-image: linear-gradient(140deg, #000428   10%, #004e92 90%);
+}
